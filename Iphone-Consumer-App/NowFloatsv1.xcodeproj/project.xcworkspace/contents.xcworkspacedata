@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Main">
+      <Group
+         location = "container:"
+         name = "Project">
+         <FileRef
+            location = "self:NowFloatsv1.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
